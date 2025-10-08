@@ -41,7 +41,7 @@ An accessible, modern Kanban board built with Next.js, React, and Tailwind CSS. 
 4. ** Set-up .env.local
 
    ```bash
-      DATABASE_URL=your_database_connection_string
+      MONGODB_URI=your_database_connection_string
    ```
 
 5. **Run development server**
@@ -108,7 +108,7 @@ Create a `.env.local` file in the root directory:
 
 ```env
 # Required
-DATABASE_URL=your_database_connection_string
+MONGODB_URI=your_database_connection_string
 ```
 
 ### Manual Testing
