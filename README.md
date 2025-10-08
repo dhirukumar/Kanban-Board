@@ -35,16 +35,21 @@ An accessible, modern Kanban board built with Next.js, React, and Tailwind CSS. 
 
 3. **Set up environment variables**
    ```bash
-   cp .env.local
-   # Edit .env.local with your configuration
+   mkdir .env.local
    ```
 
-4. **Run development server**
+4. ** Set-up .env.local
+
+  ```bash
+      DATABASE_URL=your_database_connection_string
+   ```
+
+5. **Run development server**
    ```bash
    npm run dev
    ```
 
-5. **Open your browser**
+6. **Open your browser**
    ```
    http://localhost:3000
    ```
