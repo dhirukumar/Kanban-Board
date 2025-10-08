@@ -25,7 +25,7 @@ An accessible, modern Kanban board built with Next.js, React, and Tailwind CSS. 
 1. **Clone the repository**
    ```bash
    git clone https://github.com/dhirukumar/Kanban-Board.git
-   cd ASSIGNED-MERN-TODO
+   cd Kanban-Board
    ```
 
 2. **Install dependencies**
