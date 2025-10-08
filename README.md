@@ -35,12 +35,12 @@ An accessible, modern Kanban board built with Next.js, React, and Tailwind CSS. 
 
 3. **Set up environment variables**
    ```bash
-   mkdir .env.local
+   touch .env.local
    ```
 
 4. ** Set-up .env.local
 
-  ```bash
+   ```bash
       DATABASE_URL=your_database_connection_string
    ```
 
