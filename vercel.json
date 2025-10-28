@@ -1,5 +1,4 @@
 {
 "rewrites":[{"source":"/(.*)","destination":"/"}]
 }
-//make this file inside your frontend and folder and then deploy onto vercel
-//this file is most important for deploy the frontend to vercel without this you can not deploy your frontend 
+
